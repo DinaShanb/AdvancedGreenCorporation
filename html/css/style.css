@@ -334,6 +334,23 @@
 }
 
 
+.active {
+ 
+  color: white;
+   text-size: 5px;
+  transition: all 2.5s;
+  
+ 
+}
+.active:hover {
+  text-size: 5px;
+  color: white;
+  border-radius: 40px;
+  transition: all 2.5s;
+}
+
+
+
   /*---------------------------------------
       HOME              
   -----------------------------------------*/
